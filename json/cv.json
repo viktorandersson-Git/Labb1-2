@@ -1,0 +1,61 @@
+[
+    {
+
+        "education": [
+            {
+                "school": "Campus Varberg",
+                "degree": "Systemutvecklare .Net",
+                "date": "2025-2027",
+                "info": "Yrkeshögskola i Varberg med planerad LIA. Är med i ledningsgruppenen för utbildningen som klassrepresentant."
+            },
+            {
+                "school": "Tingsholmsgymnasiet",
+                "degree": "Företagarprogrammet",
+                "date": "2010-2013",
+                "info": "Företagarprogrammet hade en inriktning med fokus på företagsekonomi och UF."
+            }
+        ]
+    },
+    {
+        "experience": [
+            {
+                "company": "Engelson",
+                "position": "Butikssäljare",
+                "date": "2021-",
+                "info": "Att hjälpa kunder med val av kläder inför sitt livs resa eller vårstädningen. Målet är att varken väder eller vind ska ta ifrån dig att njuta av din upplevelse."
+            },
+            {
+                "company": "Länsförsäkringar Larmcentral",
+                "position": "Larmoperatör & skadejour",
+                "date": "2018-2021",
+                "info": "Som larmoperatör gäller det att läsa av situationer och kunna fatta rätt beslut för att kunden ska känna sig trygg vid larm. Skadejour är att du som drabbad och behöver akut hjälp av din försäkring. Att förstå kundens behov och hjälp därefter är av yttersta vikt!"
+            },
+            {
+                "company": "Borås Tidning",
+                "position": "Mediasäljare",
+                "date": "2017-2018",
+                "info": "Här hjälpte jag företag att lägga upp en marknadsföringsstrategi. Morgontidning, BT.se, radio och Google-ads var kanalerna jag jobbade med."
+            }
+        ]
+    },
+    {
+        "skills": [
+            {
+                "titel": "Social",
+                "info": "Har lätt att anpassa mig till olika arbetsförhållanden och trivs med att prata inför både små och stora grupper."
+            },
+            {
+                "titel": "Lösningsorienterad",
+                "info": "Tar initiativ och hittar praktiska lösningar även i pressade situationer."
+            },
+            {
+                "titel": "Lojal ",
+                "info": "Är pålitlig, engagerad och ställer alltid upp för både kollegor och arbetsgivare."
+            },
+            {
+                "titel": "Lagspelare ",
+                "info": "Samarbetar gärna, delar med mig av kunskap och bidrar till en positiv arbetsmiljö."
+            }
+        ]
+    }
+]
