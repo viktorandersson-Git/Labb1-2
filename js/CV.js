@@ -1,5 +1,5 @@
 async function loadCVData() {
-    const response = await fetch("../json/CV.json");
+    const response = await fetch("../json/cv.json");
 
     const data = await response.json();
 
