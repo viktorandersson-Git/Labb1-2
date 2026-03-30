@@ -41,19 +41,19 @@
     {
         "skills": [
             {
-                "titel": "Social",
+                "title": "Social",
                 "info": "Har lätt att anpassa mig till olika arbetsförhållanden och trivs med att prata inför både små och stora grupper."
             },
             {
-                "titel": "Lösningsorienterad",
+                "title": "Lösningsorienterad",
                 "info": "Tar initiativ och hittar praktiska lösningar även i pressade situationer."
             },
             {
-                "titel": "Lojal ",
+                "title": "Lojal ",
                 "info": "Är pålitlig, engagerad och ställer alltid upp för både kollegor och arbetsgivare."
             },
             {
-                "titel": "Lagspelare ",
+                "title": "Lagspelare ",
                 "info": "Samarbetar gärna, delar med mig av kunskap och bidrar till en positiv arbetsmiljö."
             }
         ]
